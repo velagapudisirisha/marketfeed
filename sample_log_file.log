@@ -1,0 +1,9 @@
+[2024-04-22 10:15:12] INFO: Application started
+[2024-04-22 10:20:30] ERROR: Database connection failed
+[2024-04-22 10:25:45] WARNING: Disk space running low
+[2024-04-22 10:30:55] ERROR: Internal server error encountered
+[2024-04-22 10:35:20] ERROR: HTTP status 500 - Internal Server Error
+[2024-04-22 10:40:30] ERROR: Resource not found
+[2024-04-22 10:45:50] ERROR: HTTP status 404 - Not Found
+[2024-04-22 10:50:15] ERROR: Access denied
+[2024-04-22 10:55:25] ERROR: HTTP status 403 - Forbidden
